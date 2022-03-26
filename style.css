@@ -1,0 +1,21 @@
+body {
+  background-image: url(/foto/f1.gif);
+  background-size: cover;
+  /* background-position: center; */
+  color: wheat;
+  font-size: 15px;
+  text-shadow: 2px 2px 2px blue;
+  font-weight: bolder;
+}
+.content1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.content2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.emote {
+  text-align: center;
+  font-size: 25px;
+}
