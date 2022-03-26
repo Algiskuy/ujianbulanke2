@@ -2,6 +2,7 @@ body {
   background-image: url(/foto/f1.gif);
   background-size: cover;
   /* background-position: center; */
+  text-align: center;
   color: wheat;
   font-size: 15px;
   text-shadow: 2px 2px 2px blue;
